@@ -1,0 +1,17 @@
+{
+  "name": "np-barbersystem",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.11.1"
+  }
+}
